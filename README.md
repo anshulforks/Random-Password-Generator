@@ -1,12 +1,79 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+**🔒 Random Password Generator**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Welcome to the Random Password Generator!
 
-## Expanding the ESLint configuration
+Create secure, customizable passwords in seconds with an interactive web app powered by JavaScript.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+**🚀 Features**
+
+
+Customizable Length: Set how long you want your password to be.
+
+Character Options: Include uppercase, lowercase, numbers, and special symbols.
+
+Instant Generation: Get a new password with a single click.
+
+One-Click Copy: Copy your password to the clipboard—no more manual selection!
+
+Responsive Design: Works beautifully on desktop and mobile.
+
+
+**🖥️ Technologies Used**
+
+JavaScript: Core logic for password generation and interactivity.
+
+React (JSX): UI built in App.jsx for a smooth and dynamic experience.
+
+HTML: Page structure and layout.
+
+CSS: Stylish, responsive design for all devices.
+
+
+**🎮 How to Use**
+
+Set Your Preferences:
+Select desired password length and character types (uppercase, lowercase, numbers, symbols).
+
+Generate Password:
+Click the Generate button to instantly create a password.
+
+Copy Password:
+Hit the Copy icon to save the password to your clipboard.
+
+Try Again:
+Want a new password? Simply click Generate again!
+
+**🏁 Getting Started**
+
+Clone the repository:
+
+bash
+
+git clone https://github.com/anshulforks/Random-Password-Generator.git
+
+cd Random-Password-Generator
+
+Open index.html in your browser
+
+or run locally with a dev server if you prefer.
+
+**📂 File Overview**
+
+App.jsx - Main interactive app logic
+
+index.html - Entry point for the web app
+
+style.css - Custom styles
+
+**🤝 Contribute**
+
+Have ideas for improvements?
+
+Found a bug?
+
+Open an issue or submit a pull request—let’s build a better password generator together!
+
+**If you like this project, don’t forget to ⭐ the repo and share it!**
